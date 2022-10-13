@@ -381,48 +381,48 @@ ${readMore}
 
 *<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
-° 👑 > *<funcion>*
-° 👑 => *<funcion>*
-° 👑 $ *<funcion>*
-° 👑 ${usedPrefix}setprefix *<prefijo>*_
-° 👑 ${usedPrefix}resetprefix_
-° 👑 ${usedPrefix}autoadmin_
-° 👑 ${usedPrefix}cajafuerte_
-° 👑 ${usedPrefix}blocklist_
-° 👑 ${usedPrefix}block *<@tag / numero>*_
-° 👑 ${usedPrefix}unblock *<@tag / numero>*_
-° 👑 ${usedPrefix}enable *restrict*_
-° 👑 ${usedPrefix}disable *restrict*_
-° 👑 ${usedPrefix}enable *autoread*_
-° 👑 ${usedPrefix}disable *autoread*_
-° 👑 ${usedPrefix}enable *public*_
-° 👑 ${usedPrefix}disable *public*_
-° 👑 ${usedPrefix}enable *pconly*_
-° 👑 ${usedPrefix}disable *pconly*_
-° 👑 ${usedPrefix}enable *gconly*_
-° 👑 ${usedPrefix}disable *gconly*_
-° 👑 ${usedPrefix}enable *anticall*_
-° 👑 ${usedPrefix}disable *anticall*_
-° 👑 ${usedPrefix}enable *antiprivado*_
-° 👑 ${usedPrefix}disable *antiprivado*_
-° 👑 ${usedPrefix}msg *<texto>*_
-° 👑 ${usedPrefix}banchat_
-° 👑 ${usedPrefix}unbanchat_
-° 👑 ${usedPrefix}banuser *<@tag>*_
-° 👑 ${usedPrefix}unbanuser *<@tag>*_
-° 👑 ${usedPrefix}dardiamantes *<@tag>*_
-° 👑 ${usedPrefix}añadirxp *<@tag>*_
-° 👑 ${usedPrefix}banuser *<@tag>*_
-° 👑 ${usedPrefix}bc *<texto>*_
-° 👑 ${usedPrefix}bcchats *<texto>*_
-° 👑 ${usedPrefix}bcgc *<texto>*_
-° 👑 ${usedPrefix}bcbot *<texto>*_
-° 👑 ${usedPrefix}cleartpm_
-° 👑 ${usedPrefix}restart_
-° 👑 ${usedPrefix}update_
-° 👑 ${usedPrefix}banlist_
+° 👑 > *<funcion>
+° 👑 => *<funcion>
+° 👑 $ *<funcion>
+° 👑 ${usedPrefix}setprefix <prefijo>
+° 👑 ${usedPrefix}resetprefix
+° 👑 ${usedPrefix}autoadmin
+° 👑 ${usedPrefix}cajafuerte
+° 👑 ${usedPrefix}blocklist
+° 👑 ${usedPrefix}block <@tag / numero>
+° 👑 ${usedPrefix}unblock <@tag / numero>
+° 👑 ${usedPrefix}enable restrict
+° 👑 ${usedPrefix}disable restrict
+° 👑 ${usedPrefix}enable autoread
+° 👑 ${usedPrefix}disable autoread
+° 👑 ${usedPrefix}enable public
+° 👑 ${usedPrefix}disable public
+° 👑 ${usedPrefix}enable pconly
+° 👑 ${usedPrefix}disable pconly
+° 👑 ${usedPrefix}enable gconly
+° 👑 ${usedPrefix}disable gconly
+° 👑 ${usedPrefix}enable anticall
+° 👑 ${usedPrefix}disable anticall
+° 👑 ${usedPrefix}enable antiprivado
+° 👑 ${usedPrefix}disable antiprivado
+° 👑 ${usedPrefix}msg <texto>
+° 👑 ${usedPrefix}banchat
+° 👑 ${usedPrefix}unbanchat
+° 👑 ${usedPrefix}banuser <@tag>
+° 👑 ${usedPrefix}unbanuser <@tag>
+° 👑 ${usedPrefix}dardiamantes <@tag>
+° 👑 ${usedPrefix}añadirxp <@tag>
+° 👑 ${usedPrefix}banuser <@tag>
+° 👑 ${usedPrefix}bc <texto>
+° 👑 ${usedPrefix}bcchats <texto>
+° 👑 ${usedPrefix}bcgc <texto>
+° 👑 ${usedPrefix}bcbot <texto>
+° 👑 ${usedPrefix}cleartpm
+° 👑 ${usedPrefix}restart
+° 👑 ${usedPrefix}updat
+° 👑 ${usedPrefix}banlist
 ° 👑 ${usedPrefix}addprem <@tag>
-° 👑 ${usedPrefix}delprem <@tag>*_
+° 👑 ${usedPrefix}delprem <@tag>
 ° 👑 ${usedPrefix}listprem
 ° 👑 ${usedPrefix}listcmd
 ° 👑 ${usedPrefix}addcmd <texto> <responder a sticker/imagen>
