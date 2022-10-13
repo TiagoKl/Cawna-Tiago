@@ -46,104 +46,76 @@ ${readMore}
 ° ඬ⃟🤖 _${usedPrefix}stop_
 ° ඬ⃟🤖 _${usedPrefix}bots_
 
-*<𝕁𝕌𝔼𝔾𝕆𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗝𝗨𝗘𝗚𝗢𝗦 𓊈🎖️𓊉
 
-° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
-° ඬ⃟🎖️ _${usedPrefix}ppt *<papel / tijera /piedra>*_
-° ඬ⃟🎖️ _${usedPrefix}prostituto *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}prostituta *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}gay2 *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}lesbiana *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pajero *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pajera *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}puto *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}puta *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}manco *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}manca *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}rata *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}love *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}doxear *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pregunta *<texto>*_
-° ඬ⃟🎖️ _${usedPrefix}suitpvp *<@tag>*_
-° ඬ⃟🎖️ _${usedPrefix}slot *<apuesta>*_
-° ඬ⃟🎖️ _${usedPrefix}ttt *<nombre sala>*_
-° ඬ⃟🎖️ _${usedPrefix}delttt_
-° ඬ⃟🎖️ _${usedPrefix}simi *<texto>*_
-° ඬ⃟🎖️ _${usedPrefix}top *<texto>*_
-° ඬ⃟🎖️ _${usedPrefix}topgays_
-° ඬ⃟🎖️ _${usedPrefix}topotakus_
-° ඬ⃟🎖️ _${usedPrefix}formarpareja_
-° ඬ⃟🎖️ _${usedPrefix}verdad_
-° ඬ⃟🎖️ _${usedPrefix}reto_
-° ඬ⃟🎖️ _${usedPrefix}cancion_
-° ඬ⃟🎖️ _${usedPrefix}pista_
+ ° 🎖️ ${usedPrefix}mates <noob / easy / medium / hard / extreme /impossible /impossible2>
+ ° 🎖️ ${usedPrefix}ppt <papel / tijera /piedra>
+ ° 🎖️ ${usedPrefix}prostituto <nombre / @tag>
+ ° 🎖️ ${usedPrefix}prostituta <nombre / @tag>
+ ° 🎖️ ${usedPrefix}gay2 <nombre / @tag>
+ ° 🎖️ ${usedPrefix}lesbiana <nombre / @tag>
+ ° 🎖️ ${usedPrefix}pajero <nombre / @tag> 
+ ° 🎖️ ${usedPrefix}pajera <nombre / @tag>
+ ° 🎖️ ${usedPrefix}puto <nombre / @tag>
+ ° 🎖️ ${usedPrefix}puta <nombre / @tag>
+ ° 🎖️ ${usedPrefix}manco <nombre / @tag>
+ ° 🎖️ ${usedPrefix}manca <nombre / @tag>
+ ° 🎖️ ${usedPrefix}rata <nombre / @tag>
+ ° 🎖️ ${usedPrefix}love <nombre / @tag>
+ ° 🎖️ ${usedPrefix}doxear <nombre / @tag>
+ ° 🎖️ ${usedPrefix}pregunta <texto>
+ ° 🎖️ ${usedPrefix}suitpvp <@tag> 
+ ° 🎖️ ${usedPrefix}slot <apuesta> 
+ ° 🎖️ ${usedPrefix}ttt <nombre sala> 
+ ° 🎖️ ${usedPrefix}delttt
+ ° 🎖️ ${usedPrefix}simi <texto>
+ ° 🎖️ ${usedPrefix}top <texto>
+ ° 🎖️ ${usedPrefix}topgays
+ ° 🎖️ ${usedPrefix}topotakus
+ ° 🎖️ ${usedPrefix}formarpareja
+ ° 🎖️ ${usedPrefix}verdad
+ ° 🎖️ ${usedPrefix}reto
+ ° 🎖️ ${usedPrefix}cancion
+ ° 🎖️ ${usedPrefix}pista
 
-*<𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>*
+🩸   𝐗𝕏𝗫  : 𝗗𝗘𝗦𝗖𝗔𝗥𝗚𝗔𝗦 𓊈🎖️𓊉
 
-° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}enable *detect*_
-° ඬ⃟☑️ _${usedPrefix}disable *detect*_
-° ඬ⃟☑️ _${usedPrefix}enable *audios*_
-° ඬ⃟☑️ _${usedPrefix}disable *audios*_
-° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
-° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
-° ඬ⃟☑️ _${usedPrefix}enable *antiviewonce*_
-° ඬ⃟☑️ _${usedPrefix}disable *antiviewonce*_
-° ඬ⃟☑️ _${usedPrefix}enable *antitoxic*_
-° ඬ⃟☑️ _${usedPrefix}disable *antitoxic*_
-° ඬ⃟☑️ _${usedPrefix}enable *antitraba*_
-° ඬ⃟☑️ _${usedPrefix}disable *antitraba*_
-° ඬ⃟☑️ _${usedPrefix}enable *antiarabes*_
-° ඬ⃟☑️ _${usedPrefix}disable *antiarabes*_
-
-*<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
-
-° ඬ⃟🔰 _${usedPrefix}reporte *<texto>*_
-
-*<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
-
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}gitclone *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}stickerpack *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}gdrive *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}tiktok *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}xnxxdl *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}xvideosdl *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}fb *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}fb2 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}fb3 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}fb4 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}fb5 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp3doc *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp4doc *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.1 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.2 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play *<texto>*_
-° ඬ⃟📥 _${usedPrefix}playdoc *<texto>*_
-° ඬ⃟📥 _${usedPrefix}playlist *<texto>*_
-° ඬ⃟📥 _${usedPrefix}playlist2 *<texto>*_
-° ඬ⃟📥 _${usedPrefix}spotify *<texto>*_
-° ඬ⃟📥 _${usedPrefix}ringtone *<texto>*_
-° ඬ⃟📥 _${usedPrefix}soundcloud *<texto>*_
-° ඬ⃟📥 _${usedPrefix}imagen *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pinteret *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper2 *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}igstalk *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}igstory *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
+ ° 📥 _{usedPrefix}instagram <enlace / link / url>
+ ° 📥 ${usedPrefix}mediafire <enlace / link / url>
+ ° 📥 ${usedPrefix}instagram <enlace / link / url>
+ ° 📥 ${usedPrefix}gitclone <enlace / link / url> 
+ ° 📥 ${usedPrefix}stickerpack <enlace / link / url>
+ ° 📥 ${usedPrefix}gdrive <enlace / link / url> 
+ ° 📥 _${usedPrefix}tiktok enlace / link / url>
+ ° 📥 ${usedPrefix}xnxxdl <enlace / link / url>
+ ° 📥 ${usedPrefix}xvideosdl <enlace / link / url> 
+ ° 📥 ${usedPrefix}fb <enlace / link / url>
+ ° 📥 ${usedPrefix}fb2 <enlace / link / url> 
+ ° 📥 ${usedPrefix}fb3 <enlace / link / url> 
+ ° 📥 ${usedPrefix}fb4 <enlace / link / url>
+ ° 📥 ${usedPrefix}fb5 <enlace / link / url>
+ ° 📥 ${usedPrefix}ytmp3 <enlace / link / url>
+ ° 📥 ${usedPrefix}ytmp4 <enlace / link / url>
+ ° 📥 ${usedPrefix}ytmp3doc <enlace / link / url>
+ ° 📥 ${usedPrefix}ytmp4doc <enlace / link / url> 
+ ° 📥 ${usedPrefix}play.1 <texto / enlace / link / url> 
+ ° 📥 ${usedPrefix}play.2 <texto / enlace / link / url>
+ ° 📥 ${usedPrefix}play <texto> 
+ ° 📥 ${usedPrefix}playdoc <texto>
+ ° 📥 ${usedPrefix}playlist <texto>
+ ° 📥 ${usedPrefix}playlist2 <texto>
+ ° 📥 ${usedPrefix}spotify <texto> 
+ ° 📥 ${usedPrefix}ringtone <texto>
+ ° 📥 ${usedPrefix}soundcloud <texto>
+ ° 📥 ${usedPrefix}imagen <texto>
+ ° 📥 ${usedPrefix}pinteret <texto>
+ ° 📥 ${usedPrefix}wallpaper <texto> 
+ ° 📥 ${usedPrefix}wallpaper2 <texto> 
+ ° 📥 ${usedPrefix}pptiktok <nombre de usuario> 
+ ° 📥 ${usedPrefix}igstalk 
+<nombre de usuario>
+ ° 📥 ${usedPrefix}igstory <nombre de usuario>
+ ° 📥 ${usedPrefix}tiktokstalk <nombre de usuario>
 
 *<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
 
