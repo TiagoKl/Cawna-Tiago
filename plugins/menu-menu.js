@@ -15,38 +15,31 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `
-*ミ💖 𝙷𝙾𝙻𝙰 ✨${taguser}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 💖彡*
+let str = `🛑 𝗖𝗔𝗪𝗡𝗔 - 𝗕𝗢𝗧 - 𝗠𝗗 🛑
 
-*📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
-*📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
-*📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
+• ${taguser}
 
-${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${global.conn.user.jid.split`@`[0]}`)}
-${readMore}
-*<𝕀ℕ𝔽𝕆ℝ𝕄𝔸ℂ𝕀𝕆ℕ 𝔻𝔼𝕃 𝔹𝕆𝕋/>*
+📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
 
-° ඬ ⃟ 💟 _${usedPrefix}grupos_
-° ඬ ⃟ 💟 _${usedPrefix}estado_
-° ඬ ⃟ 💟 _${usedPrefix}infobot_
-° ඬ ⃟ 💟 _${usedPrefix}speedtest_
-° ඬ ⃟ 💟 _${usedPrefix}donar_
-° ඬ ⃟ 💟 _${usedPrefix}grouplist_
-° ඬ ⃟ 💟 _${usedPrefix}owner_
-° ඬ ⃟ 💟 _${usedPrefix}script_
-° ඬ ⃟ 💟 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+𝐋𝐈𝐃𝚵𝐑 ː
+     𝕯̵͌͌ ❯  𝗦𝗿 𝗖𝗮𝘄𝗻𝗮🍷 ;;  死
 
-*<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
+╎░┆〘🗞️〙▸ ${usedPrefix}grouplist
+╎░┆〘📝〙▸ ${usedPrefix}grupos
+┆░┆〘⏱️〙▸ ${usedPrefix}estado
+┆░┆〘🗒️〙▸ ${usedPrefix}infobot
+┆░┆〘📲〙▸ ${usedPrefix}speedtest
+┆░┆〘🗳️〙▸ ${usedPrefix}dueño
+┆░┆〘📥〙▸ ${usedPrefix}cawna
 
-° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
+🟢 𝗔𝗚𝗥𝗘𝗚𝗔𝗠𝗘 𝗔 𝗧𝗨 𝗚𝗥𝗨𝗣𝗢
 
-*<𝕊𝔼ℝ𝔹𝕆𝕋 - 𝕁𝔸𝔻𝕀𝔹𝕆𝕋/>*
+╎░┆〘🥏〙▸ ${usedPrefix}join <enlace del grupo>
+        • Te recomiendo usar este comando
+           en mi privado para que evites que 
+           te eliminen.
 
-° ඬ⃟🤖 _${usedPrefix}serbot_
-° ඬ⃟🤖 _${usedPrefix}stop_
-° ඬ⃟🤖 _${usedPrefix}bots_
-
-🩸   𝐗𝕏𝗫  : 𝗝𝗨𝗘𝗚𝗢𝗦 𓊈🎖️𓊉
+🩸   𝐗𝕏𝗫  : 𝗝𝗨𝗘𝗚𝗢𝗦 𓊈📝𓊉
 
  ° 🎖️ ${usedPrefix}mates <noob / easy / medium / hard / extreme /impossible /impossible2>
  ° 🎖️ ${usedPrefix}ppt <papel / tijera /piedra>
@@ -78,15 +71,15 @@ ${readMore}
  ° 🎖️ ${usedPrefix}cancion
  ° 🎖️ ${usedPrefix}pista
 
-🩸   𝐗𝕏𝗫  : 𝗗𝗘𝗦𝗖𝗔𝗥𝗚𝗔𝗦 𓊈🎖️𓊉
+🩸   𝐗𝕏𝗫  : 𝗗𝗘𝗦𝗖𝗔𝗥𝗚𝗔𝗦 𓊈📝𓊉
 
- ° 📥 _{usedPrefix}instagram <enlace / link / url>
+ ° 📥 {usedPrefix}instagram <enlace / link / url>
  ° 📥 ${usedPrefix}mediafire <enlace / link / url>
  ° 📥 ${usedPrefix}instagram <enlace / link / url>
  ° 📥 ${usedPrefix}gitclone <enlace / link / url> 
  ° 📥 ${usedPrefix}stickerpack <enlace / link / url>
  ° 📥 ${usedPrefix}gdrive <enlace / link / url> 
- ° 📥 _${usedPrefix}tiktok enlace / link / url>
+ ° 📥 ${usedPrefix}tiktok enlace / link / url>
  ° 📥 ${usedPrefix}xnxxdl <enlace / link / url>
  ° 📥 ${usedPrefix}xvideosdl <enlace / link / url> 
  ° 📥 ${usedPrefix}fb <enlace / link / url>
@@ -117,42 +110,42 @@ ${readMore}
  ° 📥 ${usedPrefix}igstory <nombre de usuario>
  ° 📥 ${usedPrefix}tiktokstalk <nombre de usuario>
 
-*<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
+🩸   𝐗𝕏𝗫  : 𝗚𝗥𝗨𝗣𝗢𝗦 𓊈📝𓊉
 
-° ඬ⃟💎 _${usedPrefix}add *<numero>*_
-° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
-° ඬ⃟💎 _${usedPrefix}grouptime *<opcion> <tiempo>*_
-° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}infogroup_
-° ඬ⃟💎 _${usedPrefix}resetlink_
-° ඬ⃟💎 _${usedPrefix}link_
-° ඬ⃟💎 _${usedPrefix}setname *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setdesc *<texto>*_
-° ඬ⃟💎 _${usedPrefix}invocar *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
-° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
-° ඬ⃟💎 _${usedPrefix}warn <@tag>_
-° ඬ⃟💎 _${usedPrefix}unwarn <@tag>_
-° ඬ⃟💎 _${usedPrefix}listwarn_
-° ඬ⃟💎 _${usedPrefix}fantasmas_
-° ඬ⃟💎 _${usedPrefix}destraba_
+ ° 💎 ${usedPrefix}add <numero>
+ ° 💎 ${usedPrefix}kick <@tag>
+ ° 💎 ${usedPrefix}grupo <abrir / cerrar>
+ ° 💎 ${usedPrefix}grouptime *<opcion> <tiempo>
+ ° 💎 ${usedPrefix}promote <@tag> 
+ ° 💎 ${usedPrefix}demote <@tag>
+ ° 💎 admins <texto>
+ ° 💎 ${usedPrefix}demote <@tag>
+ ° 💎 ${usedPrefix}infogroup
+ ° 💎 ${usedPrefix}resetlink
+ ° 💎 ${usedPrefix}link
+ ° 💎 ${usedPrefix}setname <texto>
+ ° 💎 ${usedPrefix}setdesc <texto>
+ ° 💎 ${usedPrefix}invocar <texto>
+ ° 💎 ${usedPrefix}setwelcome <texto>
+ ° 💎 ${usedPrefix}setbye <texto>
+ ° 💎 ${usedPrefix}hidetag <texto>
+ ° 💎 ${usedPrefix}warn <@tag>
+ ° 💎 ${usedPrefix}unwarn <@tag>
+ ° 💎 ${usedPrefix}listwarn
+ ° 💎 ${usedPrefix}fantasmas
+ ° 💎 ${usedPrefix}destraba
 
-*<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗖𝗢𝗡𝗩𝗘𝗥𝗧𝗜𝗗𝗢𝗥𝗘𝗦 𓊈📝𓊉
+  
+ ° 🧧 ${usedPrefix}togifaud <responde a un video>
+ ° 🧧 ${usedPrefix}toimg <responde a un sticker>
+ ° 🧧 ${usedPrefix}tomp3 <responde a un video / nota de voz> 
+ ° 🧧 ${usedPrefix}toptt <responde a un video / audio>
+ ° 🧧 ${usedPrefix}tovideo <responde a un sticker> 
+ ° 🧧 ${usedPrefix}tourl <responde a un video / imagen / audio>
+ ° 🧧 ${usedPrefix}tts es <texto>
 
-° ඬ⃟🧧 _${usedPrefix}togifaud *<responde a un video>*_
-° ඬ⃟🧧 _${usedPrefix}toimg *<responde a un sticker>*_
-° ඬ⃟🧧 _${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
-° ඬ⃟🧧 _${usedPrefix}toptt *<responde a un video / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un sticker>*_
-° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tts es *<texto>*_
-
-*<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗘𝗙𝗘𝗖𝗧𝗢𝗦 𝗬 𝗟𝗢𝗚𝗢𝗦 𓊈📝𓊉
 
 ° 🖍️ ${usedPrefix}logos <efecto> <texto>
 ° 🖍️ ${usedPrefix}logocorazon <texto>
@@ -166,13 +159,13 @@ ${readMore}
 ° 🖍️ ${usedPrefix}pixelar
 ° 🖍️ ${usedPrefix}blur
 
-*<𝔽ℝ𝔸𝕊𝔼𝕊 𝕐 𝕋𝔼𝕏𝕋𝕆𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗙𝗥𝗔𝗦𝗘𝗦 𝗬 𝗧𝗘𝗫𝗧𝗢𝗦 𓊈📝𓊉
 
 ° 🥀 ${usedPrefix}consejo
 ° 🥀 ${usedPrefix}fraseromantica
 ° 🥀 ${usedPrefix}historiaromantica
 
-*<ℝ𝔸ℕ𝔻𝕆𝕄/>*
+🩸   𝐗𝕏𝗫  : 𝗥𝗔𝗡𝗗𝗢𝗠𝗦 𓊈📝𓊉
 
 ° 👾 ${usedPrefix}cristianoronaldo
 ° 👾 ${usedPrefix}messi
@@ -240,7 +233,7 @@ ${readMore}
 ° 👾 ${usedPrefix}sakura
 ° 👾 ${usedPrefix}cosplay
 
-*<ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 +𝟙𝟠/>*
+🩸   𝐗𝕏𝗫  : 𝗣𝗘𝗥𝗩𝗘𝗥𝗧𝗜𝗗𝗢 - 𝗣𝗘𝗥𝗩𝗘𝗥𝗧𝗜𝗗𝗔 𓊈📝𓊉
 
 ° 🔞 ${usedPrefix}pack
 ° 🔞 ${usedPrefix}pack2
@@ -274,7 +267,7 @@ ${readMore}
 ° 🔞 ${usedPrefix}nsfwfemdom
 ° 🔞 ${usedPrefix}nsfwglass
 
-*<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝔻𝔼 𝔸𝕌𝔻𝕀𝕆𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗘𝗙𝗘𝗖𝗧𝗢𝗦 𝗗𝗘 𝗔𝗨𝗗𝗜𝗢𝗦 𓊈📝𓊉
 *- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
 
 ° 🎤 ${usedPrefix}bass
@@ -290,13 +283,13 @@ ${readMore}
 ° 🎤 ${usedPrefix}smooth
 ° 🎤 ${usedPrefix}tupai
 
-*<ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆/>*
+🩸   𝐗𝕏𝗫  : 𝗖𝗛𝗔𝗧 𝗔𝗡Ó𝗡𝗜𝗠𝗢 𓊈📝𓊉
 
 ° 📳 ${usedPrefix}start
 ° 📳 ${usedPrefix}next
 ° 📳 ${usedPrefix}leave
 
-*<𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗕𝗨𝗦𝗖𝗔𝗗𝗢𝗥𝗘𝗦 𓊈📝𓊉
 
 ° 🔍 ${usedPrefix}stickersearch <texto>
 ° 🔍 ${usedPrefix}xnxxsearch <texto>
@@ -316,7 +309,8 @@ ${readMore}
 ° 🔍 ${usedPrefix}uapkpro <texto>
 ° 🔍 ${usedPrefix}playstore <texto>
 
-*<ℍ𝔼ℝℝ𝔸𝕄𝕀𝔼ℕ𝕋𝔸𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗛𝗘𝗥𝗥𝗔𝗠𝗜𝗘𝗡𝗧𝗔𝗦 𓊈📝𓊉
+
 ° 🛠️ ${usedPrefix}clima <país> / <ciudad>
 ° 🛠️ ${usedPrefix}encuesta <texto1|texto2...>
 ° 🛠️ ${usedPrefix}afk <motivo>
@@ -336,7 +330,7 @@ ${readMore}
 ° 🛠️ ${usedPrefix}covid <pais>
 ° 🛠️ ${usedPrefix}horario
 
-*<ℝℙ𝔾 - 𝕃𝕀𝕄𝕀𝕋𝔼𝕊 - 𝔼ℂ𝕆ℕ𝕆𝕄𝕀𝔸/>*
+🩸   𝐗𝕏𝗫  : 𝗥𝗣𝗚 - 𝗟Í𝗠𝗜𝗧𝗘𝗦 - 𝗘𝗖𝗢𝗡Ó𝗠𝗜𝗔 𓊈📝𓊉
 
 ° 💵 ${usedPrefix}balance
 ° 💵 ${usedPrefix}claim
@@ -352,7 +346,7 @@ ${readMore}
 ° 💵 ${usedPrefix}verificar
 ° 💵 ${usedPrefix}unreg <numero de serie>
 
-*<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 𓊈📝𓊉
 
 ° 👽 ${usedPrefix}sticker <responder a imagen o video>
 ° 👽 ${usedPrefix}sticker <enlace / link / url>
@@ -379,11 +373,11 @@ ${readMore}
 ° 👽 ${usedPrefix}stickermarker *<efecto> <responder a imagen>
 ° 👽 ${usedPrefix}stickerfilter *<efecto> <responder a imagen>
 
-*<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
+🩸   𝐗𝕏𝗫  : 𝗖𝗥𝗘𝗔𝗗𝗢𝗥 𝗬 𝗠𝗢𝗗𝗘𝗥𝗔𝗗𝗢𝗥𝗘𝗦 𓊈📝𓊉
 
-° 👑 > *<funcion>
-° 👑 => *<funcion>
-° 👑 $ *<funcion>
+° 👑 > <funcion>
+° 👑 => <funcion>
+° 👑 $ <funcion>
 ° 👑 ${usedPrefix}setprefix <prefijo>
 ° 👑 ${usedPrefix}resetprefix
 ° 👑 ${usedPrefix}autoadmin
@@ -439,9 +433,9 @@ ${readMore}
 ° ඬ⃟☠ _${usedPrefix}crash7_
 ° ඬ⃟☠ _${usedPrefix}crash8_
 `.trim()
-let buttons = [
-{ buttonId: '#donar', buttonText: { displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮' }, type: 1 },
-{ buttonId: '#owner', buttonText: { displayText: '🌹 𝙾𝚆𝙽𝙴𝚁 🌹' }, type: 1 }]
+//let buttons = [
+//{ buttonId: '#donar', buttonText: { displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮' }, type: 1 },
+//{ buttonId: '#owner', buttonText: { displayText: '🌹 𝙾𝚆𝙽𝙴𝚁 🌹' }, type: 1 }]
 //{ buttonId: '#infobot', buttonText: { displayText: '🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾' }, type: 1 }]
 let buttonMessage = {
 image: pp,
@@ -456,10 +450,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐓𝐇𝐄 𝐌𝐘𝐒𝐓𝐈𝐂 - 𝐁𝐎𝐓 👑',
+title: '🛑 𝗖𝗔𝗪𝗡𝗔 - 𝗕𝗢𝗧 - 𝗠𝗗 🛑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://www.paypal.me/TheShadowBrokers133`
+sourceUrl: `https://chat.whatsapp.com/HVNIrgL5fZNBrKctGJ0Euu`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
