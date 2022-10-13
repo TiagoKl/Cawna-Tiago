@@ -5,21 +5,9 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
-  ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
-  ['51940617554', '👑 Mystic - Collaborator 3 👑', true],
-  ['51996089079', '👑 Mystic - Collaborator 4 👑', true],
-  ['573225236629', '👑 Mystic - Collaborator 5 👑', true],
-  ['593959425714', '👑 Mystic - Collaborator 6 👑', true],
-  ['50246028932', '👑 Mystic - Collaborator 7 👑', true],  
-  ['593968585283'],
-  ['5219992095479'],
-  ['5219991402134'],
-  ['5219993404349'],
-  ['5219996125657']
+  ['51946352266', '🟢Tiago - Creador🟢', true],
 ] 
-global.suittag = ['5219993404349'] 
+global.suittag = ['51946352266'] 
 global.prems = ['51995386439'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
