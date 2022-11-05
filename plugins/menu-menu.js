@@ -4,7 +4,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) =
 try {
 let vn = './media/menu.mp3'
 let pp = imagen4
-let img = await(await fetch('https://www.paidmembershipspro.com/wp-content/uploads/2017/07/PayPal-Express.png')).buffer()
+let img = await('https://telegra.ph/file/e4b656f730216ac0168ad.jpg')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
@@ -24,13 +24,7 @@ let str = `🛑 𝗖𝗔𝗪𝗡𝗔 - 𝗕𝗢𝗧 - 𝗠𝗗 🛑
 𝐋𝐈𝐃𝚵𝐑 ː
      𝕯̵͌͌ ❯  𝗦𝗿 𝗖𝗮𝘄𝗻𝗮🍷 ;;  死
 
-╎░┆〘🗞️〙▸ ${usedPrefix}grouplist
-╎░┆〘📝〙▸ ${usedPrefix}grupos
-┆░┆〘⏱️〙▸ ${usedPrefix}estado
-┆░┆〘🗒️〙▸ ${usedPrefix}infobot
-┆░┆〘📲〙▸ ${usedPrefix}speedtest
-┆░┆〘🗳️〙▸ ${usedPrefix}dueño
-┆░┆〘📥〙▸ ${usedPrefix}cawna
+╎░┆〘🗞️〙▸ ${usedPrefix}creador 
 
 🟢 𝗔𝗚𝗥𝗘𝗚𝗔𝗠𝗘 𝗔 𝗧𝗨 𝗚𝗥𝗨𝗣𝗢
 
