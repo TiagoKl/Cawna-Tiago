@@ -5,7 +5,7 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['51946352266', '🟢Tiago - Creador🟢', true],
+  ['51946352266', '֪ ˓ 💀 ̸̷̷̸̶̤̳   𝟲5.  ֪ 𝐓̸̷𝐈̸̷͡𝗔𝗚̸̶̸̷𝐎̶̷̸  ̸̷̤̤ ̸̷̤̤ 🥃 ̸̷̤̤', true],
 ] 
 global.suittag = ['51946352266'] 
 global.prems = [''] 
