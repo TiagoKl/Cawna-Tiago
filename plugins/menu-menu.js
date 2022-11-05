@@ -7,8 +7,6 @@ import fs from 'fs'  
   
  • ${taguser} 
   
- 📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime} 
-  
  𝐋𝐈𝐃𝚵𝐑 ː 
       𝕯̵͌͌ ❯  𝗦𝗿 𝗖𝗮𝘄𝗻𝗮🍷 ;;  死 
   
