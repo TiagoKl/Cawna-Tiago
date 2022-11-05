@@ -2,19 +2,13 @@ let handler = async (m, { conn, usedPrefix }) => {
  var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document'] 
  var document = doc[Math.floor(Math.random() * doc.length)]     
  let text = ` 
- 𝕯̵͌͌ ❯  𝗦𝗿 𝗖𝗮𝘄𝗻𝗮🍷 ;;  死 
-  
- 🪀NÚMERO DE MI CREADOR OFICIAL🪀 
-  
- +51 946 352 266 
-  
- 💡CUENTA DE TIKTOK💡 
-  
- @Cawna.Sex 
-  
- 👾CUENTA DE INSTAGRAM👾 
-  
- @Cawna.Sex 
+ 🛑 𝗖𝗔𝗪𝗡𝗔 - 𝗕𝗢𝗧 - 𝗠𝗗 🛑
+
+• FUÍ CREADO POR TIAGO.
+
+• Sígueme en Instagram @cawna.sex
+
+• SOY EL MEJOR BOT DE WHATSAPP DEL KPOP.
  `.trim()    
  let buttonMessage= { 
  'document': { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` }, 
