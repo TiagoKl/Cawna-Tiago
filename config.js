@@ -6,7 +6,6 @@ import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
  ['51946352266', '֪ ˓ 💀 ̸̷̷̸̶̤̳   𝟲5.  ֪ 𝐓̸̷𝐈̸̷͡𝗔𝗚̸̶̸̷𝐎̶̷̸  ̸̷̤̤ ̸̷̤̤ 🥃 ̸̷̤̤', true],
- ['525511808370', '֪ᶻ 𝘇 𐰁 𝗦𝝨𝗗𝗨𝐂𝐂𝐈𝐎𝐍 S𝝠𝖳𝗔Nㅤ元に戻', true],
 ] 
 global.suittag = ['51946352266'] 
 global.prems = [''] 
