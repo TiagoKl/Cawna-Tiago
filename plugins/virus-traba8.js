@@ -6,6 +6,10 @@ let handler = async (m, { conn, usedPrefix }) => {
 
 • FUÍ CREADO POR TIAGO.
 
+NÚMERO DE MI CREADOR
+
+👤 wa.me/525511808370
+
 • Sígueme en Instagram @cawna.sex
 
 • SOY EL MEJOR BOT DE WHATSAPP DEL KPOP.
@@ -23,7 +27,7 @@ let handler = async (m, { conn, usedPrefix }) => {
  'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', 
  'mediaType': 2, 
  'previewType': 'pdf', 
- 'title': '🌻🌟EL MEJOR BOT DE WHATSAPP 🌟🌻', 
+ 'title': '🔥 EL MEJOR BOT DE WHATSAPP 🔥', 
  'body': wm, 
  'thumbnail': imagen1, 
  'sourceUrl': 'https://www.tiktok.com/@cawna.sex' }}, 
