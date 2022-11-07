@@ -10,8 +10,8 @@ global.owner = [
 global.suittag = ['51946352266'] 
 global.prems = [''] 
 
-global.packname = ''
-global.author = '🔥𝐓𝐎𝐑𝐓𝐔𝐑𝐀  𝛺̶  𝗜ꟿ𝐅Σ𝖱𝗡𝗔𝗟ᜓ̷🔥\n\n\n𝛺̶ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗢 𝗗𝗘𝗟 𝗖𝗥𝗘𝗔𝗗𝗢𝗥\n                         © +51 946 352 266'
+global.packname = '𝐓𝐎𝐑𝐓𝐔𝐑𝐀  𝛺̶  𝗜ꟿ𝐅Σ𝖱𝗡𝗔𝗟ᜓ̷'
+global.author = '🩸 ⋮ ＠  𝗦𝗿 𝗖𝗮𝘄𝗻𝗮  ꒱'
 global.wm = '🛑 𝗖𝗔𝗪𝗡𝗔 - 𝗕𝗢𝗧 - 𝗠𝗗 🛑'
 global.igfg = '🛑 𝗖𝗔𝗪𝗡𝗔 - 𝗕𝗢𝗧 - 𝗠𝗗 🛑'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
